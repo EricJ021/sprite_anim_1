@@ -1,0 +1,10 @@
+#bat_sprite {
+    display:block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    /*
+    background: url("bat_sprite/face1.png");
+    border: solid 1px red;
+    */
+}
